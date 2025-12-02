@@ -165,7 +165,7 @@ Ele demonstra domínio dos conceitos essenciais de Banco de Dados e está prepar
 **Caio Victor**  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caio-Paschoal97/Caio-Paschoal97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-victor-7b6661359/) 
 
-**Priscila**  
+**Priscila Barbosa**  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priscila319) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-pereira-b86aa8256/) 
 
 **André Salgado**  
