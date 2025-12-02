@@ -154,3 +154,25 @@ O **Vida em Grão** é um projeto robusto e escalável, desenvolvido com foco em
 
 Ele demonstra domínio dos conceitos essenciais de Banco de Dados e está preparado para evolução futura!
 
+### 🌐 Contatos
+
+**📚 Danilo Farias (Professor responsável pelo projeto)**  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dansoaresfarias/dansoaresfarias) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dansoaresfarias/)
+
+**Leticia Gabrielle**  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leticia-dev07/Leticia-dev07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-gabrielle-034b80327)  
+
+**Caio Victor**  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caio-Paschoal97/Caio-Paschoal97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-victor-7b6661359/) 
+
+**Priscila**  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priscila319) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-pereira-b86aa8256/) 
+
+**André Salgado**  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrecsf/andrecsf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/andr%C3%A9-salgado-8652ba269) 
+
+**Luciana Borges**  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luciana25956/Luciana25956) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-borges-12a283351/)  
+
+**Arice Lustosa**  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dente457812)
